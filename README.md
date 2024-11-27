@@ -10,7 +10,7 @@ Ejecutar proyecto con:
 ```
 node app.js
 ```
-el proyecto se ejecuta por defecto en el purto 3000
+el proyecto se ejecuta por defecto en el puerto 3000
 
 ### Probar con el sigueinte CURL
 ```
